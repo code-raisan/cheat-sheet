@@ -9,3 +9,5 @@
 [WordPress Plugin Dev](./wp-plugin.md)
 
 [Docker Compose](./docker.md)
+
+[Git](./git.md)
