@@ -12,4 +12,6 @@
 
 [Git](./git.md)
 
+[Linux](./linux.md)
+
 [その他](./etc.md)
